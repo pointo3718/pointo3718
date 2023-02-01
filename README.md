@@ -20,8 +20,6 @@
 <!-- 추가예정 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
 </div>
 ## 💻 ...
-<br>
-<div>
   <a href = "https://github.com/pointo3718"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-</div>
+
 
