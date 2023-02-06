@@ -1,5 +1,5 @@
 # Kang Jin Wook
-### Hi there 👋 </br>I'm JinWook Kang, I hope to Full-stack developer
+### Hi there 👋 </br>I'm JinWook Kang, I hope to be a full-stack developer
 
 ## 💻 My Stack
 <!-- 기본틀 <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=로고&글자색"> -->
